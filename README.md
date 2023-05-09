@@ -21,10 +21,6 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dsilvas2001&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dsilvas2001&theme=react&hide_border=false)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsilvas2001&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-
 <p align="center">
 <a href="https://github.com/dsilvas2001">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dsilvas2001&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
