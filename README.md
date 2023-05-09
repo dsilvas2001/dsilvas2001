@@ -4,13 +4,12 @@
 
 ---
 
-# 💫 About Me:
-✔Currently, I am studying Software Engineering, which allows me to be available for new opportunities and projects in the job market.<br>✔I am looking to collaborate with other developers on projects in the workplace environment in order to enhance my skills and knowledge in the field of programming and contribute to the success of the company. I am interested in learning from others, working in a team, and taking on new challenges.<br>✔Currently I am focused on learning and continuously improving my skills in web and mobile development<br>✔If you need to know about something specific, ask me about my knowledge in web and desktop applications. I am willing to help you with whatever you need.
-
----
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/donald.silva.735/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/donaldsilva01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/donald-david-silva-sanchez-313370263/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@donsilvas2734/featured)
+---
+
+# 💫 About Me:
+✔Currently, I am studying Software Engineering, which allows me to be available for new opportunities and projects in the job market.<br>✔I am looking to collaborate with other developers on projects in the workplace environment in order to enhance my skills and knowledge in the field of programming and contribute to the success of the company. I am interested in learning from others, working in a team, and taking on new challenges.<br>✔Currently I am focused on learning and continuously improving my skills in web and mobile development<br>✔If you need to know about something specific, ask me about my knowledge in web and desktop applications. I am willing to help you with whatever you need.
 
 ---
 
