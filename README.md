@@ -2,6 +2,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ---
 # 💫 About Me:
+
 ✔Currently, I am studying Software Engineering, which allows me to be available for new opportunities and projects in the job market.<br>✔I am looking to collaborate with other developers on projects in the workplace environment in order to enhance my skills and knowledge in the field of programming and contribute to the success of the company. I am interested in learning from others, working in a team, and taking on new challenges.<br>✔Currently I am focused on learning and continuously improving my skills in web and mobile development<br>✔If you need to know about something specific, ask me about my knowledge in web and desktop applications. I am willing to help you with whatever you need.
 ---
 ## 🌐 Socials:
