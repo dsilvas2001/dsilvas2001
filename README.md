@@ -1,3 +1,6 @@
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dsilvas2001)](https://github.com/anuraghazra/github-readme-stats)
+---
 ### ✍️ Random Dev Quote   
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -25,6 +28,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dsilvas2001&theme=react&hide_border=false)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsilvas2001&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsilvas2001&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
