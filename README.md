@@ -2,7 +2,6 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-[![](https://visitcount.itsvg.in/api?id=dsilvas2001&icon=0&color=0)](https://visitcount.itsvg.in)
 ---
 
 # 💫 About Me:
@@ -27,4 +26,4 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dsilvas2001&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
----
+
