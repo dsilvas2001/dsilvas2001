@@ -2,7 +2,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dsilvas2001&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
 ✔Currently, I am studying Software Engineering, which allows me to be available for new opportunities and projects in the job market.<br>✔I am looking to collaborate with other developers on projects in the workplace environment in order to enhance my skills and knowledge in the field of programming and contribute to the success of the company. I am interested in learning from others, working in a team, and taking on new challenges.<br>✔Currently I am focused on learning and continuously improving my skills in web and mobile development<br>✔If you need to know about something specific, ask me about my knowledge in web and desktop applications. I am willing to help you with whatever you need.
@@ -19,5 +18,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsilvas2001&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 
+[![](https://visitcount.itsvg.in/api?id=dsilvas2001&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
